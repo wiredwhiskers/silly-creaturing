@@ -7,7 +7,7 @@
 
 //the full URLs of all the sites in the ring
 var sites = [
-'https://ring.wsys.pet/index.html',
+'https://ring.wsys.pet/',
 'https://site.wsys.pet/',
 ];
 
