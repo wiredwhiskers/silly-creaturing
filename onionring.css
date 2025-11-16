@@ -15,6 +15,7 @@
   border-image-width: 19px;
   border-image-slice: 19;
   border-image-repeat: repeat;
+  border-image-outset: 19;
   background: #d1779e;
   background: linear-gradient(214deg, rgba(209, 119, 158, 0.97) 0%, rgba(165, 87, 199, 1) 50%, rgba(83, 237, 183, 1) 100%);
   margin: 0 auto; /* centers the widget */
