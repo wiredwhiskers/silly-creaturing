@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(170, 170, 247);
+        text-align: center;
+}
+.main {
+    display: inline-table;
+    width: 48%;
+    height: auto;
+
+}
