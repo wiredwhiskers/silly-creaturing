@@ -8,7 +8,8 @@
 //the full URLs of all the sites in the ring
 var sites = [
 'https://site.wsys.pet/',
-'https://doggyfaggot.pet/'
+'https://doggyfaggot.pet/',
+'https://kineticcat.dev/'
 ];
 
 //the name of the ring
