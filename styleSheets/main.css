@@ -8,3 +8,6 @@ body {
     height: auto;
 
 }
+ul{
+    list-style: none;
+}
